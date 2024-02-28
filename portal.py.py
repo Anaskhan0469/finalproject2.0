@@ -46,5 +46,3 @@ elif page == "Contact Us":
 elif page == "Add Job":
     add_job()
     home()  # Display the updated job list on the Home page after adding a job
-
-  
